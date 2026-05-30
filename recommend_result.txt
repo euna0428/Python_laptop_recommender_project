@@ -1,0 +1,97 @@
+
+선택 학과 권장 스펙
+- 학과: AI/데이터
+- 주요 사용 목적: 파이썬,분석,머신러닝,대용량 데이터,간단한 모델 학습
+- 권장 CPU: i7/Ryzen7 이상
+- 최소 RAM: 32GB
+- 최소 저장공간: 1TB
+- 권장 GPU: NVIDIA 외장 GPU 권장
+- 학과 평균 권장 예산: 2,300,000원
+- 학과 가성비 예산 기준: 1,800,000원
+- 성능 확장 예산 상한: 3,795,000원
+- 사용자가 입력한 최대 예산: 300,000원
+- 참고: RAM 32GB, SSD 1TB, NVIDIA GPU 우선
+
+선택 기준: 성능
+
+추천 노트북 TOP 5
+
+1. ASUS ProArt P16
+   추천 점수: 157점
+   CPU: Ryzen9
+   RAM: 32GB
+   저장공간: 1TB
+   GPU: RTX4070
+   OS: Windows
+   예상 구매가 범위: 2,400,000원 ~ 3,400,000원
+   무게: 1.9kg
+   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
+   옵션 일치 검색어: ASUS ProArt P16 Ryzen9 32GB 1TB RTX4070 Windows 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=ASUS%20ProArt%20P16%20Ryzen9%2032GB%201TB%20RTX4070%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: RTX4070·32GB·1TB급 게이밍/크리에이터 노트북 2026 예상 구매가
+   구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
+
+2. Samsung Galaxy Book4 Ultra
+   추천 점수: 157점
+   CPU: Core Ultra 9
+   RAM: 32GB
+   저장공간: 1TB
+   GPU: RTX4070
+   OS: Windows
+   예상 구매가 범위: 3,000,000원 ~ 3,800,000원
+   무게: 1.86kg
+   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
+   옵션 일치 검색어: Samsung Galaxy Book4 Ultra Core Ultra 9 32GB 1TB RTX4070 Windows 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Samsung%20Galaxy%20Book4%20Ultra%20Core%20Ultra%209%2032GB%201TB%20RTX4070%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: RTX4070·32GB·1TB 프리미엄 라인 가격대
+   구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
+
+3. ASUS ROG Zephyrus G14
+   추천 점수: 149점
+   CPU: Ryzen9
+   RAM: 32GB
+   저장공간: 1TB
+   GPU: RTX4060
+   OS: Windows
+   예상 구매가 범위: 2,100,000원 ~ 3,000,000원
+   무게: 1.7kg
+   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
+   옵션 일치 검색어: ASUS ROG Zephyrus G14 Ryzen9 32GB 1TB RTX4060 Windows 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=ASUS%20ROG%20Zephyrus%20G14%20Ryzen9%2032GB%201TB%20RTX4060%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: 다나와 RTX4060 32GB/1TB 검색 결과 212만~250만 원대 이상 확인
+   구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
+
+4. HP Omen 16 RTX4070
+   추천 점수: 149점
+   CPU: i7
+   RAM: 32GB
+   저장공간: 1TB
+   GPU: RTX4070
+   OS: Windows
+   예상 구매가 범위: 2,400,000원 ~ 3,400,000원
+   무게: 2.4kg
+   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
+   옵션 일치 검색어: HP Omen 16 RTX4070 i7 32GB 1TB RTX4070 Windows 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=HP%20Omen%2016%20RTX4070%20i7%2032GB%201TB%20RTX4070%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: RTX4070·32GB·1TB급 게이밍/크리에이터 노트북 2026 예상 구매가
+   구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
+
+5. Lenovo Legion 5 RTX4060
+   추천 점수: 141점
+   CPU: Ryzen7
+   RAM: 32GB
+   저장공간: 1TB
+   GPU: RTX4060
+   OS: Windows
+   예상 구매가 범위: 2,100,000원 ~ 3,000,000원
+   무게: 2.4kg
+   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
+   옵션 일치 검색어: Lenovo Legion 5 RTX4060 Ryzen7 32GB 1TB RTX4060 Windows 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Lenovo%20Legion%205%20RTX4060%20Ryzen7%2032GB%201TB%20RTX4060%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: 다나와 RTX4060 32GB/1TB 검색 결과 212만~250만 원대 이상 확인
+   구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
+
+주의
+- 예상 구매가 범위는 2026년 메모리/SSD 가격 상승과 국내 가격비교 검색 결과를 반영한 참고 범위입니다.
+- 링크는 정확한 옵션을 찾기 위한 검색 링크이며, 쇼핑몰 정렬/재고/옵션에 따라 다른 제품이 섞일 수 있습니다.
+- 실제 구매 전 Windows 포함 여부, FreeDOS 여부, RAM/SSD/GPU 옵션을 반드시 확인해야 합니다.
