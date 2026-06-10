@@ -1,0 +1,10 @@
+{
+  "name": "laptop-recommender-fullstack",
+  "private": true,
+  "version": "1.0.0",
+  "description": "React JS + FastAPI based department laptop recommendation web app",
+  "scripts": {
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000"
+  }
+}

@@ -1,0 +1,46 @@
+﻿no,brand,model,slug,png,svg,cpu,ram,storage,gpu,price,weight,os
+1,LG,Gram 14,lg-gram-14,01_lg-gram-14.png,01_lg-gram-14.svg,i5,16,512GB,내장,170~250만원,1.12,Windows
+2,LG,Gram 16,lg-gram-16,02_lg-gram-16.png,02_lg-gram-16.svg,i7,16,512GB,내장,170~250만원,1.2,Windows
+3,LG,Gram Pro 16,lg-gram-pro-16,03_lg-gram-pro-16.png,03_lg-gram-pro-16.svg,Core Ultra 7,32,1TB,RTX3050,320~380만원,1.28,Windows
+4,Samsung,Galaxy Book4,samsung-galaxy-book4,04_samsung-galaxy-book4.png,04_samsung-galaxy-book4.svg,i5,16,512GB,내장,80~160만원,1.55,Windows
+5,Samsung,Galaxy Book4 Pro 14,samsung-galaxy-book4-pro-14,05_samsung-galaxy-book4-pro-14.png,05_samsung-galaxy-book4-pro-14.svg,Core Ultra 5,16,512GB,내장,170~260만원,1.23,Windows
+6,Samsung,Galaxy Book4 Pro 16,samsung-galaxy-book4-pro-16,06_samsung-galaxy-book4-pro-16.png,06_samsung-galaxy-book4-pro-16.svg,Core Ultra 7,16,512GB,내장,170~260만원,1.56,Windows
+7,Samsung,Galaxy Book4 Ultra,samsung-galaxy-book4-ultra,07_samsung-galaxy-book4-ultra.png,07_samsung-galaxy-book4-ultra.svg,Core Ultra 9,32,1TB,RTX4070,300~380만원,1.86,Windows
+8,Samsung,Galaxy Book5 Pro 360,samsung-galaxy-book5-pro-360,08_samsung-galaxy-book5-pro-360.png,08_samsung-galaxy-book5-pro-360.svg,Core Ultra 7,16,512GB,내장,170~260만원,1.69,Windows
+9,Lenovo,ThinkPad E16,lenovo-thinkpad-e16,09_lenovo-thinkpad-e16.png,09_lenovo-thinkpad-e16.svg,Ryzen7,16,512GB,내장,80~160만원,1.8,Windows
+10,Lenovo,ThinkPad T14,lenovo-thinkpad-t14,10_lenovo-thinkpad-t14.png,10_lenovo-thinkpad-t14.svg,Ryzen7,32,1TB,내장,150~230만원,1.35,Windows
+11,Lenovo,IdeaPad Slim 5 16,lenovo-ideapad-slim-5-16,11_lenovo-ideapad-slim-5-16.png,11_lenovo-ideapad-slim-5-16.svg,Ryzen7,16,512GB,내장,80~160만원,1.82,Windows
+12,Lenovo,Yoga Pro 7,lenovo-yoga-pro-7,12_lenovo-yoga-pro-7.png,12_lenovo-yoga-pro-7.svg,Ryzen7,32,1TB,RTX4050,210~290만원,1.59,Windows
+13,Lenovo,LOQ 15 RTX4060,lenovo-loq-15-rtx4060,13_lenovo-loq-15-rtx4060.png,13_lenovo-loq-15-rtx4060.svg,i7,16,512GB,RTX4060,150~220만원,2.4,FreeDOS
+14,Lenovo,Legion 5 RTX4060,lenovo-legion-5-rtx4060,14_lenovo-legion-5-rtx4060.png,14_lenovo-legion-5-rtx4060.svg,Ryzen7,32,1TB,RTX4060,210~300만원,2.4,Windows
+15,Lenovo,Legion Slim 5,lenovo-legion-slim-5,15_lenovo-legion-slim-5.png,15_lenovo-legion-slim-5.svg,Ryzen7,32,1TB,RTX4060,210~300만원,2.3,Windows
+16,HP,Pavilion Plus 14,hp-pavilion-plus-14,16_hp-pavilion-plus-14.png,16_hp-pavilion-plus-14.svg,i7,16,512GB,내장,80~160만원,1.4,Windows
+17,HP,Envy x360 14,hp-envy-x360-14,17_hp-envy-x360-14.png,17_hp-envy-x360-14.svg,Ryzen7,16,512GB,내장,80~160만원,1.39,Windows
+18,HP,Victus 16 RTX4050,hp-victus-16-rtx4050,18_hp-victus-16-rtx4050.png,18_hp-victus-16-rtx4050.svg,i7,16,512GB,RTX4050,130~200만원,2.3,FreeDOS
+19,HP,Victus 16 RTX4060,hp-victus-16-rtx4060,19_hp-victus-16-rtx4060.png,19_hp-victus-16-rtx4060.svg,i7,32,1TB,RTX4060,210~300만원,2.35,Windows
+20,HP,Omen 16 RTX4070,hp-omen-16-rtx4070,20_hp-omen-16-rtx4070.png,20_hp-omen-16-rtx4070.svg,i7,32,1TB,RTX4070,240~340만원,2.4,Windows
+21,ASUS,Vivobook 16,asus-vivobook-16,21_asus-vivobook-16.png,21_asus-vivobook-16.svg,Ryzen7,16,512GB,내장,80~160만원,1.9,Windows
+22,ASUS,Zenbook 14 OLED,asus-zenbook-14-oled,22_asus-zenbook-14-oled.png,22_asus-zenbook-14-oled.svg,Core Ultra 7,16,1TB,내장,120~190만원,1.2,Windows
+23,ASUS,TUF Gaming A15 RTX4060,asus-tuf-gaming-a15-rtx4060,23_asus-tuf-gaming-a15-rtx4060.png,23_asus-tuf-gaming-a15-rtx4060.svg,Ryzen7,16,1TB,RTX4060,170~240만원,2.2,FreeDOS
+24,ASUS,ROG Zephyrus G14,asus-rog-zephyrus-g14,24_asus-rog-zephyrus-g14.png,24_asus-rog-zephyrus-g14.svg,Ryzen9,32,1TB,RTX4060,210~300만원,1.7,Windows
+25,ASUS,ProArt P16,asus-proart-p16,25_asus-proart-p16.png,25_asus-proart-p16.svg,Ryzen9,32,1TB,RTX4070,240~340만원,1.9,Windows
+26,ASUS,ExpertBook B5,asus-expertbook-b5,26_asus-expertbook-b5.png,26_asus-expertbook-b5.svg,i7,16,512GB,내장,80~160만원,1.4,Windows
+27,Acer,Swift Go 14,acer-swift-go-14,27_acer-swift-go-14.png,27_acer-swift-go-14.svg,i7,16,512GB,내장,110~190만원,1.3,Windows
+28,Acer,Swift X 14 RTX4050,acer-swift-x-14-rtx4050,28_acer-swift-x-14-rtx4050.png,28_acer-swift-x-14-rtx4050.svg,Core Ultra 7,32,1TB,RTX4050,210~290만원,1.5,Windows
+29,Acer,Nitro V 15 RTX4050,acer-nitro-v-15-rtx4050,29_acer-nitro-v-15-rtx4050.png,29_acer-nitro-v-15-rtx4050.svg,i7,16,512GB,RTX4050,130~200만원,2.1,FreeDOS
+30,Acer,Predator Helios Neo 16,acer-predator-helios-neo-16,30_acer-predator-helios-neo-16.png,30_acer-predator-helios-neo-16.svg,i7,32,1TB,RTX4060,210~300만원,2.6,Windows
+31,Dell,Inspiron 16,dell-inspiron-16,31_dell-inspiron-16.png,31_dell-inspiron-16.svg,i7,16,1TB,내장,120~190만원,1.9,Windows
+32,Dell,XPS 13,dell-xps-13,32_dell-xps-13.png,32_dell-xps-13.svg,Core Ultra 7,16,512GB,내장,200~270만원,1.19,Windows
+33,Dell,XPS 15,dell-xps-15,33_dell-xps-15.png,33_dell-xps-15.svg,i7,32,1TB,RTX4050,280~360만원,1.9,Windows
+34,Dell,G15 RTX4060,dell-g15-rtx4060,34_dell-g15-rtx4060.png,34_dell-g15-rtx4060.svg,i7,16,1TB,RTX4060,170~240만원,2.6,Windows
+35,MSI,Modern 14,msi-modern-14,35_msi-modern-14.png,35_msi-modern-14.svg,Ryzen5,16,512GB,내장,80~160만원,1.4,Windows
+36,MSI,Prestige 14 AI Evo,msi-prestige-14-ai-evo,36_msi-prestige-14-ai-evo.png,36_msi-prestige-14-ai-evo.svg,Core Ultra 7,32,1TB,내장,150~230만원,1.29,Windows
+37,MSI,Cyborg 15 RTX4060,msi-cyborg-15-rtx4060,37_msi-cyborg-15-rtx4060.png,37_msi-cyborg-15-rtx4060.svg,i7,16,512GB,RTX4060,150~220만원,2.0,FreeDOS
+38,MSI,Creator M16 RTX4060,msi-creator-m16-rtx4060,38_msi-creator-m16-rtx4060.png,38_msi-creator-m16-rtx4060.svg,i7,32,1TB,RTX4060,210~300만원,2.0,Windows
+39,MSI,Stealth 14 Studio,msi-stealth-14-studio,39_msi-stealth-14-studio.png,39_msi-stealth-14-studio.svg,i7,32,1TB,RTX4060,210~300만원,1.7,Windows
+40,Apple,MacBook Air 13 M3,apple-macbook-air-13-m3,40_apple-macbook-air-13-m3.png,40_apple-macbook-air-13-m3.svg,M3,16,512GB,통합,160~220만원,1.24,macOS
+41,Apple,MacBook Air 15 M3,apple-macbook-air-15-m3,41_apple-macbook-air-15-m3.png,41_apple-macbook-air-15-m3.svg,M3,16,512GB,통합,190~240만원,1.51,macOS
+42,Apple,MacBook Pro 14 M3 Pro,apple-macbook-pro-14-m3-pro,42_apple-macbook-pro-14-m3-pro.png,42_apple-macbook-pro-14-m3-pro.svg,M3 Pro,18,512GB,통합,280~350만원,1.61,macOS
+43,Apple,MacBook Pro 16 M3 Pro,apple-macbook-pro-16-m3-pro,43_apple-macbook-pro-16-m3-pro.png,43_apple-macbook-pro-16-m3-pro.svg,M3 Pro,36,1TB,통합,410~460만원,2.14,macOS
+44,Microsoft,Surface Laptop 5,microsoft-surface-laptop-5,44_microsoft-surface-laptop-5.png,44_microsoft-surface-laptop-5.svg,i7,16,512GB,내장,160~230만원,1.54,Windows
+45,Microsoft,Surface Laptop Studio 2,microsoft-surface-laptop-studio-2,45_microsoft-surface-laptop-studio-2.png,45_microsoft-surface-laptop-studio-2.svg,i7,32,1TB,RTX4050,300~370만원,1.98,Windows

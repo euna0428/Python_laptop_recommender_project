@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+.idea/workspace.xml

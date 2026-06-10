@@ -9,86 +9,71 @@
 - 학과 평균 권장 예산: 2,300,000원
 - 학과 가성비 예산 기준: 1,800,000원
 - 성능 확장 예산 상한: 3,795,000원
-- 사용자가 입력한 최대 예산: 300,000원
+- 사용자가 입력한 최대 예산: 2,000,000원
 - 참고: RAM 32GB, SSD 1TB, NVIDIA GPU 우선
 
-선택 기준: 성능
+선택 기준: 가격, 성능, 휴대성
 
 추천 노트북 TOP 5
 
-1. ASUS ProArt P16
-   추천 점수: 157점
-   CPU: Ryzen9
-   RAM: 32GB
-   저장공간: 1TB
-   GPU: RTX4070
-   OS: Windows
-   예상 구매가 범위: 2,400,000원 ~ 3,400,000원
-   무게: 1.9kg
-   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
-   옵션 일치 검색어: ASUS ProArt P16 Ryzen9 32GB 1TB RTX4070 Windows 노트북
-   모델 검색 링크: https://search.danawa.com/dsearch.php?query=ASUS%20ProArt%20P16%20Ryzen9%2032GB%201TB%20RTX4070%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
-   가격 기준 메모: RTX4070·32GB·1TB급 게이밍/크리에이터 노트북 2026 예상 구매가
+1. Apple MacBook Air 13 M3
+   추천 점수: 155점
+   CPU: M3
+   RAM: 16GB
+   저장공간: 512GB
+   GPU: 통합
+   OS: macOS
+   예상 구매가 범위: 1,600,000원 ~ 2,200,000원
+   무게: 1.24kg
+   추천 이유: 학과 권장 CPU 충족; 예산 경계 구간: 옵션/할인에 따라 가능; 성능 확장 예산 범위 이내; 휴대성 우수
+   옵션 일치 검색어: Apple MacBook Air 13 M3 M3 16GB 512GB 통합 macOS 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Apple%20MacBook%20Air%2013%20M3%20M3%2016GB%20512GB%20%ED%86%B5%ED%95%A9%20macOS%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: 다나와 맥북 Air 16GB/512GB 출시가 236만 원 정보와 현 판매 변동 고려
    구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
 
-2. Samsung Galaxy Book4 Ultra
-   추천 점수: 157점
-   CPU: Core Ultra 9
-   RAM: 32GB
-   저장공간: 1TB
-   GPU: RTX4070
-   OS: Windows
-   예상 구매가 범위: 3,000,000원 ~ 3,800,000원
-   무게: 1.86kg
-   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
-   옵션 일치 검색어: Samsung Galaxy Book4 Ultra Core Ultra 9 32GB 1TB RTX4070 Windows 노트북
-   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Samsung%20Galaxy%20Book4%20Ultra%20Core%20Ultra%209%2032GB%201TB%20RTX4070%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
-   가격 기준 메모: RTX4070·32GB·1TB 프리미엄 라인 가격대
+2. Apple MacBook Air 15 M3
+   추천 점수: 155점
+   CPU: M3
+   RAM: 16GB
+   저장공간: 512GB
+   GPU: 통합
+   OS: macOS
+   예상 구매가 범위: 1,900,000원 ~ 2,400,000원
+   무게: 1.51kg
+   추천 이유: 학과 권장 CPU 충족; 예산 경계 구간: 옵션/할인에 따라 가능; 성능 확장 예산 범위 이내; 휴대성 우수
+   옵션 일치 검색어: Apple MacBook Air 15 M3 M3 16GB 512GB 통합 macOS 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Apple%20MacBook%20Air%2015%20M3%20M3%2016GB%20512GB%20%ED%86%B5%ED%95%A9%20macOS%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: 다나와 맥북 Air 16GB/512GB 출시가·판매가 범위 기준
    구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
 
-3. ASUS ROG Zephyrus G14
-   추천 점수: 149점
-   CPU: Ryzen9
-   RAM: 32GB
-   저장공간: 1TB
-   GPU: RTX4060
-   OS: Windows
-   예상 구매가 범위: 2,100,000원 ~ 3,000,000원
-   무게: 1.7kg
-   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
-   옵션 일치 검색어: ASUS ROG Zephyrus G14 Ryzen9 32GB 1TB RTX4060 Windows 노트북
-   모델 검색 링크: https://search.danawa.com/dsearch.php?query=ASUS%20ROG%20Zephyrus%20G14%20Ryzen9%2032GB%201TB%20RTX4060%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
-   가격 기준 메모: 다나와 RTX4060 32GB/1TB 검색 결과 212만~250만 원대 이상 확인
+3. Apple MacBook Pro 14 M3 Pro
+   추천 점수: 91점
+   CPU: M3 Pro
+   RAM: 18GB
+   저장공간: 512GB
+   GPU: 통합
+   OS: macOS
+   예상 구매가 범위: 2,800,000원 ~ 3,500,000원
+   무게: 1.61kg
+   추천 이유: 학과 권장 CPU 충족; 학과 권장 GPU 기준 충족; 사용자 예산 초과; 성능 확장 예산 범위 이내; 휴대성 우수
+   옵션 일치 검색어: Apple MacBook Pro 14 M3 Pro M3 Pro 18GB 512GB 통합 macOS 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Apple%20MacBook%20Pro%2014%20M3%20Pro%20M3%20Pro%2018GB%20512GB%20%ED%86%B5%ED%95%A9%20macOS%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: 다나와 맥북 프로 검색 결과: RAM/SSD 옵션별 227만~300만 원대 이상 확인
    구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
 
-4. HP Omen 16 RTX4070
-   추천 점수: 149점
-   CPU: i7
-   RAM: 32GB
+4. Apple MacBook Pro 16 M3 Pro
+   추천 점수: 77점
+   CPU: M3 Pro
+   RAM: 36GB
    저장공간: 1TB
-   GPU: RTX4070
-   OS: Windows
-   예상 구매가 범위: 2,400,000원 ~ 3,400,000원
-   무게: 2.4kg
-   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
-   옵션 일치 검색어: HP Omen 16 RTX4070 i7 32GB 1TB RTX4070 Windows 노트북
-   모델 검색 링크: https://search.danawa.com/dsearch.php?query=HP%20Omen%2016%20RTX4070%20i7%2032GB%201TB%20RTX4070%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
-   가격 기준 메모: RTX4070·32GB·1TB급 게이밍/크리에이터 노트북 2026 예상 구매가
-   구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
-
-5. Lenovo Legion 5 RTX4060
-   추천 점수: 141점
-   CPU: Ryzen7
-   RAM: 32GB
-   저장공간: 1TB
-   GPU: RTX4060
-   OS: Windows
-   예상 구매가 범위: 2,100,000원 ~ 3,000,000원
-   무게: 2.4kg
-   추천 이유: 학과 권장 CPU 충족; RAM 32GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 성능 확장 예산 범위 이내
-   옵션 일치 검색어: Lenovo Legion 5 RTX4060 Ryzen7 32GB 1TB RTX4060 Windows 노트북
-   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Lenovo%20Legion%205%20RTX4060%20Ryzen7%2032GB%201TB%20RTX4060%20Windows%20%EB%85%B8%ED%8A%B8%EB%B6%81
-   가격 기준 메모: 다나와 RTX4060 32GB/1TB 검색 결과 212만~250만 원대 이상 확인
+   GPU: 통합
+   OS: macOS
+   예상 구매가 범위: 4,100,000원 ~ 4,600,000원
+   무게: 2.14kg
+   추천 이유: 학과 권장 CPU 충족; RAM 36GB로 권장 기준 충족; 저장공간 1TB로 권장 기준 충족; 학과 권장 GPU 기준 충족; 사용자 예산 초과
+   옵션 일치 검색어: Apple MacBook Pro 16 M3 Pro M3 Pro 36GB 1TB 통합 macOS 노트북
+   모델 검색 링크: https://search.danawa.com/dsearch.php?query=Apple%20MacBook%20Pro%2016%20M3%20Pro%20M3%20Pro%2036GB%201TB%20%ED%86%B5%ED%95%A9%20macOS%20%EB%85%B8%ED%8A%B8%EB%B6%81
+   가격 기준 메모: 다나와 맥북 프로 16 검색 결과: 36GB/512GB 약 411만 원대 확인, Apple 고급형은 옵션별 편차 큼
    구매 전 확인: RAM/SSD/GPU/OS 옵션이 위 스펙과 같은지 확인
 
 주의
