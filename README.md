@@ -1,6 +1,6 @@
 # 학과별 맞춤형 노트북 추천 시스템
 
-학과, 예산, 운영체제, 우선순위를 입력하면 조건에 맞는 노트북 TOP 5를 점수와 선정 사유와 함께 추천하는 웹 서비스입니다.
+학과, 예산, 운영체제, 우선순위를 입력하면 조건에 맞는 노트북 TOP 5를 점수·선정 사유와 함께 추천하는 웹서비스입니다.
 
 ## 작업 정보
 
@@ -9,7 +9,8 @@
 | 작업 기간 | 2026.03.09 ~ 2026.06.08 |
 | 작업 인원 | 단독 개발(2인 팀) |
 | 내 역할 | 기획·총괄, 추천 알고리즘, 데이터 구축, 프론트·백엔드 개발 (ChatGPT 협업) |
-| 작업 툴 | Python, FastAPI, Pandas, React(Vite), Node.js, HTML |
+| 작업 툴 | Python, FastAPI, pandas, React(Vite), Node.js, HTML, Vercel |
+| 배포 주소 | https://laptop-recommender-rosy.vercel.app |
 
 ## 작품 소개
 
