@@ -9,8 +9,8 @@
 | 작업 기간 | 2026.03.09 ~ 2026.06.08 |
 | 작업 인원 | 단독 개발(2인 팀) |
 | 내 역할 | 기획·총괄, 추천 알고리즘, 데이터 구축, 프론트·백엔드 개발 (ChatGPT 협업) |
-| 작업 툴 | Python, FastAPI, pandas, React(Vite), Node.js, HTML, Vercel |
-| 배포 주소 | https://laptop-recommender-rosy.vercel.app |
+| 작업 툴 | Python, FastAPI, pandas, React(Vite), Node.js, HTML, Vercel, Docker, nginx, Linux(Ubuntu) |
+| 배포 주소 | https://laptop-recommender-rosy.vercel.app (Vercel)<br>Linux(Ubuntu)·nginx·Docker Compose 배포 기록: [docs/LINUX_DEPLOY.md](https://github.com/euna0428/python_laptop_recommender_project/blob/main/docs/LINUX_DEPLOY.md) |
 
 ## 작품 소개
 
@@ -22,6 +22,7 @@
 - **추천 알고리즘**: 학과 스펙 충족 여부, 예산 범위, 성능(CPU·GPU·RAM), 휴대성, 운영체제, 학과 태그를 결합한 가중치 점수화로 TOP 5를 산출합니다.
 - **백엔드**: FastAPI REST API 4종을 만들고 Pydantic으로 입력을 검증했습니다. pandas로 읽는 CSV 조회에는 `lru_cache`를 적용했습니다.
 - **프론트엔드**: React 5단계 설문과 추천 카드 UI, 추천 결과 비교표를 구현했습니다.
+- **Linux 배포**: Ubuntu(WSL2)에서 Docker Compose로 화면(nginx)과 API 서버(FastAPI)를 컨테이너 2개로 나눠 배포하고, `/api/health` 응답과 nginx 접속 기록을 확인한 뒤 API 서버 재시작까지 점검했습니다.
 
 ## 개발 과정
 
@@ -52,7 +53,9 @@
 ```text
 backend/    FastAPI 앱, backend/data (웹에서 쓰는 CSV)
 frontend/   React(Vite) 화면
-docs/       API_CONTRACT.md, IMPLEMENTATION_NOTES.md
+deploy/     nginx 설정, API·화면 Dockerfile
+docs/       API_CONTRACT.md, IMPLEMENTATION_NOTES.md, LINUX_DEPLOY.md
+docker-compose.yml  컨테이너 2개(web, api) 실행 설정
 ```
 
 ## 실행 방법
@@ -62,6 +65,7 @@ docs/       API_CONTRACT.md, IMPLEMENTATION_NOTES.md
 ## 관련 문서
 
 - [API 명세](https://github.com/euna0428/python_laptop_recommender_project/blob/main/docs/API_CONTRACT.md)
+- [Linux 배포·운영 점검 기록](https://github.com/euna0428/python_laptop_recommender_project/blob/main/docs/LINUX_DEPLOY.md)
 - [구현 노트](https://github.com/euna0428/python_laptop_recommender_project/blob/main/docs/IMPLEMENTATION_NOTES.md)
 - [상세 개발 기록](https://github.com/euna0428/python_laptop_recommender_project/blob/main/docs/DEV_README.md)
 - [학과별 추천 결과 이미지](https://github.com/euna0428/python_laptop_recommender_project/tree/main/docs/images)
